@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{771F31FC-D31C-8E48-7FBF-ACCF798FD172}") = "mixed_realities_workshop_2016", "Assembly-CSharp.csproj", "{9FD5AA14-7F04-B0E0-79C6-BA039EF8569A}"
+EndProject
+Project("{771F31FC-D31C-8E48-7FBF-ACCF798FD172}") = "mixed_realities_workshop_2016", "Assembly-CSharp-Editor.csproj", "{3F591327-218E-D7BE-0FAB-41240C1510A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FD5AA14-7F04-B0E0-79C6-BA039EF8569A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FD5AA14-7F04-B0E0-79C6-BA039EF8569A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FD5AA14-7F04-B0E0-79C6-BA039EF8569A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FD5AA14-7F04-B0E0-79C6-BA039EF8569A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F591327-218E-D7BE-0FAB-41240C1510A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F591327-218E-D7BE-0FAB-41240C1510A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F591327-218E-D7BE-0FAB-41240C1510A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F591327-218E-D7BE-0FAB-41240C1510A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
